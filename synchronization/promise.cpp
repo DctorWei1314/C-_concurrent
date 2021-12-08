@@ -25,4 +25,3 @@ void process_connections(connection_set& connections)
       }
     }
   }
-}
